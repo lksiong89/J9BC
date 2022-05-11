@@ -1,0 +1,10 @@
+    "name": "J9BC",
+    "website": "https://j9.io/",
+    "description": "J9BC is a digital currency issued by J9 International (J9.io) based on BSC Binance Smart Chain, with features of decentralization, anonymous transaction and security.",
+    "explorer": "https://bscscan.com/token/0x8dcff5ba47aa24cfeb73a2262b7cd6d18739600c",
+    "type": "BEP20",
+    "symbol": "J9BC",
+    "decimals": 2,
+    "status": "active",
+    "id": "0x8dcff5ba47aa24cfeb73a2262b7cd6d18739600c"
+}
